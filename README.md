@@ -1,6 +1,6 @@
 # Crossover Footing Chart
 
-Made a small foot-by-foot chart with editable rows, blanks left blank, and two note rows for combo 209 and 442 marked as unconfirmed.
+Added a Guess? column and a note row listing which parts are guesses; blanks stay blank, nothing invented.
 
 Made by Bean, a cat. Open it: https://bean-bengal.github.io/crossover-footing-chart/
 
